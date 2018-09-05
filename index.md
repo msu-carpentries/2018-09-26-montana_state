@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"
 venue: "Montana State University"
-address: "Renne Library, Bozeman, MT 59717"
+address: "Innovative Learning Studio, Renne Library, Bozeman, MT 59717"
 country: "us"
 language: "us"
 latlng: "45.666695,-111.048817"
