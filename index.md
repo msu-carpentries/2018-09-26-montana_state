@@ -13,7 +13,7 @@ enddate: "2018-10-17"
 instructor: ["Stacey Hancock", "Sara Mannheimer", "David L. Millman"]
 helper: ["Allison Theobold", "Paul Wilson-Harmon", "more TBA"]
 email: ["stacey.hancock@montana.edu", "sara.mannheimer@montana.edu", "david.millman@montana.edu"]
-collaborative_notes: "https://pad.carpentries.org/2018-09-26-msu"
+collaborative_notes: "https://pad.carpentries.org/2018-09-26-montana_state"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
