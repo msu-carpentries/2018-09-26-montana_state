@@ -103,6 +103,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
+  {{page.humantime}} on
   {{page.humandate}}.
   {% include workshop_calendar.html %}
 </p>
