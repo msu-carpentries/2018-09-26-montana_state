@@ -92,7 +92,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
-  Parking information avalible from <a href=http://www.montana.edu/parking/>MSU Parking</a>.
+  Parking information avalible from
+  <a href="http://www.montana.edu/parking/">MSU Parking</a>.
 </p>
 {% endif %}
 
