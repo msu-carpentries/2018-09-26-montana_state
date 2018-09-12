@@ -6,10 +6,10 @@ address: "Innovative Learning Studio, Renne Library, Bozeman, MT 59717"
 country: "us"
 language: "us"
 latlng: "45.666695,-111.048817"
-humandate: "Sept 26 and Oct 3, 10, 17; 2018"
+humandate: "Oct 3, 10, 17, 24; 2018"
 humantime: "3:00 pm - 6:30 pm"
-startdate: "2018-09-26"
-enddate: "2018-10-17"
+startdate: "2018-10-03"
+enddate: "2018-10-24"
 instructor: ["Stacey Hancock", "Sara Mannheimer", "David L. Millman"]
 helper: ["Allison Theobold", "Paul Wilson-Harmon", "more TBA"]
 email: ["stacey.hancock@montana.edu", "sara.mannheimer@montana.edu", "david.millman@montana.edu"]
