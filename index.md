@@ -11,7 +11,7 @@ humantime: "3:00 pm - 6:30 pm"
 startdate: "2018-10-03"
 enddate: "2018-10-24"
 instructor: ["Stacey Hancock", "Sara Mannheimer", "David L. Millman"]
-helper: ["Allison Theobold", "Paul Wilson-Harmon", "more TBA"]
+helper: ["Allison Theobold", "Paul Wilson-Harmon", "Esther Birch", "more TBA"]
 email: ["stacey.hancock@montana.edu", "sara.mannheimer@montana.edu", "david.millman@montana.edu"]
 collaborative_notes: "https://pad.carpentries.org/2018-09-26-montana_state"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
