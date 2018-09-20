@@ -155,6 +155,22 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   attempt to provide them.
 </p>
 
+<strong>Signup:</strong> Sign up for the sessions that you would like to participate.  
+<ul>
+  <li>
+    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12625,5863,1741&tz=-6:00">The Unix Shell (Oct 3)</a>
+  </li>
+  <li>
+    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12626,5863,1741">R for Reproducible Scientific Analysis - Part 1 (Oct Oct 10)</a>
+  </li>
+  <li>
+    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12627,5863,1741">Version Control with Git (Oct 17)</a>
+  </li>
+  <li>
+    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12628,5863,1741">R for Reproducible Scientific Analysis - Part 2 (Oct 24)</a>
+  </li>
+</ul>
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
