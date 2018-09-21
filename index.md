@@ -158,16 +158,16 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <strong>Signup:</strong> Sign up for the sessions that you would like to participate.  
 <ul>
   <li>
-    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12625,5863,1741&tz=-6:00">Oct 3: The Unix Shell </a>
+    <a href="https://atlas.montana.edu/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12625,5863,1741&tz=-6:00">Oct 3: The Unix Shell </a>
   </li>
   <li>
-    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12626,5863,1741">Oct Oct 10: R for Reproducible Scientific Analysis - Part 1 </a>
+    <a href="https://atlas.montana.edu/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12626,5863,1741">Oct Oct 10: R for Reproducible Scientific Analysis - Part 1 </a>
   </li>
   <li>
-    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12627,5863,1741">Oct 17: Version Control with Git</a>
+    <a href="https://atlas.montana.edu/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12627,5863,1741">Oct 17: Version Control with Git</a>
   </li>
   <li>
-    <a href="https://atlas.montana.edu:9000/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12628,5863,1741">Oct 24: R for Reproducible Scientific Analysis - Part 2 </a>
+    <a href="https://atlas.montana.edu/apex/f?p=112:3:101353470921628::NO::P3_COURSESCHEDID,P3_COURSEID,P3_INSTRUCTORID:12628,5863,1741">Oct 24: R for Reproducible Scientific Analysis - Part 2 </a>
   </li>
 </ul>
 
